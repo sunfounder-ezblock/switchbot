@@ -1,0 +1,7 @@
+<category name="%{BKY_CATSWITCHBOT}" colour='#58ce6a'>
+
+  <block type="switchbot_s1_get_value">
+	</block>
+
+</category>
+
